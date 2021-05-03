@@ -1,4 +1,4 @@
-# Arduino-8-leds-with-animations
+#RGB-neoPixel-with-potentiometer-control
 
 <a href="https://www.tinkercad.com/things/5pmem8gutj0"><img src="https://user-images.githubusercontent.com/53026536/116832989-795fec00-ab8d-11eb-8258-c1ebbb3b08b1.png" width="650px"></a>
 
